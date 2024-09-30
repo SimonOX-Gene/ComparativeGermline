@@ -1,0 +1,44 @@
+"","GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"1","GO:1901564","organonitrogen compound metabolic proces...",1479,77,53.02,3.7e-05
+"2","GO:0008152","metabolic process",2433,111,87.22,4.2e-05
+"3","GO:0006508","proteolysis",379,29,13.59,5.5e-05
+"4","GO:0006090","pyruvate metabolic process",17,5,0.61,0.00024
+"5","GO:0006096","glycolytic process",17,5,0.61,0.00024
+"6","GO:0006165","nucleoside diphosphate phosphorylation",17,5,0.61,0.00024
+"7","GO:0006757","ATP generation from ADP",17,5,0.61,0.00024
+"8","GO:0009132","nucleoside diphosphate metabolic process",17,5,0.61,0.00024
+"9","GO:0009135","purine nucleoside diphosphate metabolic ...",17,5,0.61,0.00024
+"10","GO:0009179","purine ribonucleoside diphosphate metabo...",17,5,0.61,0.00024
+"11","GO:0009185","ribonucleoside diphosphate metabolic pro...",17,5,0.61,0.00024
+"12","GO:0046031","ADP metabolic process",17,5,0.61,0.00024
+"13","GO:0046939","nucleotide phosphorylation",17,5,0.61,0.00024
+"14","GO:0032787","monocarboxylic acid metabolic process",28,6,1,0.00038
+"15","GO:0006082","organic acid metabolic process",107,12,3.84,0.00038
+"16","GO:0019752","carboxylic acid metabolic process",107,12,3.84,0.00038
+"17","GO:0043436","oxoacid metabolic process",107,12,3.84,0.00038
+"18","GO:0016052","carbohydrate catabolic process",19,5,0.68,0.00043
+"19","GO:0042221","response to chemical",12,4,0.43,0.00063
+"20","GO:0006091","generation of precursor metabolites and ...",31,6,1.11,0.00067
+"21","GO:0005975","carbohydrate metabolic process",91,10,3.26,0.00138
+"22","GO:0071704","organic substance metabolic process",2329,101,83.49,0.00235
+"23","GO:0009144","purine nucleoside triphosphate metabolic...",29,5,1.04,0.00328
+"24","GO:0009199","ribonucleoside triphosphate metabolic pr...",29,5,1.04,0.00328
+"25","GO:0009205","purine ribonucleoside triphosphate metab...",29,5,1.04,0.00328
+"26","GO:0046034","ATP metabolic process",29,5,1.04,0.00328
+"27","GO:0009141","nucleoside triphosphate metabolic proces...",30,5,1.08,0.00382
+"28","GO:0019538","protein metabolic process",1325,63,47.5,0.00449
+"29","GO:0044281","small molecule metabolic process",228,16,8.17,0.00701
+"30","GO:0009150","purine ribonucleotide metabolic process",53,6,1.9,0.01099
+"31","GO:0009259","ribonucleotide metabolic process",53,6,1.9,0.01099
+"32","GO:0019693","ribose phosphate metabolic process",53,6,1.9,0.01099
+"33","GO:0006163","purine nucleotide metabolic process",55,6,1.97,0.01308
+"34","GO:0072521","purine-containing compound metabolic pro...",56,6,2.01,0.01423
+"35","GO:0016053","organic acid biosynthetic process",15,3,0.54,0.01497
+"36","GO:0046394","carboxylic acid biosynthetic process",15,3,0.54,0.01497
+"37","GO:1901575","organic substance catabolic process",99,8,3.55,0.02463
+"38","GO:1901135","carbohydrate derivative metabolic proces...",142,10,5.09,0.03007
+"39","GO:0009056","catabolic process",103,8,3.69,0.03036
+"40","GO:0044283","small molecule biosynthetic process",34,4,1.22,0.03192
+"41","GO:0016310","phosphorylation",603,30,21.62,0.03528
+"42","GO:0044238","primary metabolic process",2264,92,81.16,0.04418
+"43","GO:0009064","glutamine family amino acid metabolic pr...",10,2,0.36,0.04756

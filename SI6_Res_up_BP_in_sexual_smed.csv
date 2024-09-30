@@ -1,0 +1,20 @@
+"","GO.ID","Term","Annotated","Significant","Expected","classicFisher"
+"1","GO:0007018","microtubule-based movement",134,34,9.26,1.3e-11
+"2","GO:0007017","microtubule-based process",186,35,12.85,3.5e-08
+"3","GO:0055085","transmembrane transport",912,90,63.02,2e-04
+"4","GO:0006793","phosphorus metabolic process",1418,127,97.99,6e-04
+"5","GO:0006796","phosphate-containing compound metabolic ...",1418,127,97.99,6e-04
+"6","GO:0009187","cyclic nucleotide metabolic process",64,12,4.42,0.0012
+"7","GO:0009117","nucleotide metabolic process",187,24,12.92,0.0023
+"8","GO:0006753","nucleoside phosphate metabolic process",189,24,13.06,0.0026
+"9","GO:0009190","cyclic nucleotide biosynthetic process",53,10,3.66,0.003
+"10","GO:0019637","organophosphate metabolic process",285,32,19.69,0.0041
+"11","GO:0055086","nucleobase-containing small molecule met...",211,25,14.58,0.0054
+"12","GO:0009165","nucleotide biosynthetic process",121,15,8.36,0.0191
+"13","GO:1901293","nucleoside phosphate biosynthetic proces...",121,15,8.36,0.0191
+"14","GO:0006298","mismatch repair",16,4,1.11,0.021
+"15","GO:0016310","phosphorylation",1030,87,71.18,0.0231
+"16","GO:0005975","carbohydrate metabolic process",171,19,11.82,0.0264
+"17","GO:0009452","7-methylguanosine RNA capping",10,3,0.69,0.0273
+"18","GO:0036260","RNA capping",10,3,0.69,0.0273
+"19","GO:0006468","protein phosphorylation",990,82,68.41,0.0412
